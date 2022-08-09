@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! My name is Joan!
+
+I'm from Argentina and I'm a software developer. I’m currently working on Danaide SA.
 
 <!--
 **jmdefelippe/jmdefelippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
